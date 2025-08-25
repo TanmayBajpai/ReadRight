@@ -1,0 +1,644 @@
+[
+  {
+    "name": "BBC News",
+    "domain": "bbc.com/news",
+    "leaning": "Center",
+    "notes": "UK's state-funded public broadcaster. Aims for impartiality but faces bias accusations from both the left and right. Generally considered a benchmark for centrist, high-quality journalism."
+  },
+  {
+    "name": "The Guardian",
+    "domain": "theguardian.com",
+    "leaning": "Center-Left",
+    "notes": "UK-based outlet known for its progressive and socially liberal stance. Often focuses on environmental issues, human rights, and is generally critical of conservative politics."
+  },
+  {
+    "name": "The New York Times",
+    "domain": "nytimes.com",
+    "leaning": "Center-Left",
+    "notes": "A leading US newspaper. Its news reporting aims for objectivity, but its editorial and opinion sections have a clear liberal and progressive orientation."
+  },
+  {
+    "name": "The Wall Street Journal",
+    "domain": "wsj.com",
+    "leaning": "Center-Right",
+    "notes": "US-based newspaper with a focus on business and finance. Its news division is generally considered centrist, but its influential editorial page is staunchly conservative."
+  },
+  {
+    "name": "Reuters",
+    "domain": "reuters.com",
+    "leaning": "Center",
+    "notes": "Global news agency known for its commitment to neutrality and fact-based reporting. It serves as a source for thousands of other news outlets worldwide."
+  },
+  {
+    "name": "Associated Press (AP)",
+    "domain": "apnews.com",
+    "leaning": "Center",
+    "notes": "A US-based global non-profit news agency. Widely regarded as one of the most objective and non-partisan major news sources."
+  },
+  {
+    "name": "CNN",
+    "domain": "cnn.com",
+    "leaning": "Left",
+    "notes": "US-based cable news network. While it presents itself as a straight news source, its commentary, choice of stories, and framing are widely considered to have a strong liberal bias."
+  },
+  {
+    "name": "Fox News",
+    "domain": "foxnews.com",
+    "leaning": "Right",
+    "notes": "US-based cable news network known for its conservative opinion hosts and editorial stance. Highly influential in right-wing politics."
+  },
+  {
+    "name": "Al Jazeera",
+    "domain": "aljazeera.com",
+    "leaning": "Center-Left",
+    "notes": "State-funded broadcaster of Qatar. Provides a global perspective often differing from Western media, but is sometimes criticized for aligning with Qatar's foreign policy interests."
+  },
+  {
+    "name": "The Washington Post",
+    "domain": "washingtonpost.com",
+    "leaning": "Center-Left",
+    "notes": "Major US newspaper known for its investigative journalism, particularly on American politics. Its editorial stance is generally liberal."
+  },
+  {
+    "name": "NPR (National Public Radio)",
+    "domain": "npr.org",
+    "leaning": "Center-Left",
+    "notes": "US public radio network. Aims for objective reporting but its audience and some analyses place its overall tone and story selection as leaning slightly to the left."
+  },
+  {
+    "name": "The Times of India",
+    "domain": "timesofindia.indiatimes.com",
+    "leaning": "Center-Right",
+    "notes": "One of India's largest English-language daily newspapers. Generally seen as having a pro-business, establishment-friendly, and moderately nationalist stance."
+  },
+  {
+    "name": "The Hindu",
+    "domain": "thehindu.com",
+    "leaning": "Center-Left",
+    "notes": "Indian daily newspaper known for its comprehensive coverage and traditionally holding a secular, pro-social justice editorial line. Often critical of the ruling right-wing government."
+  },
+  {
+    "name": "NDTV",
+    "domain": "ndtv.com",
+    "leaning": "Center-Left",
+    "notes": "Indian television and online news channel. Historically known for a liberal and anti-establishment viewpoint. Recently acquired by the Adani Group, leading to speculation about a potential shift in its editorial stance."
+  },
+  {
+    "name": "The Indian Express",
+    "domain": "indianexpress.com",
+    "leaning": "Center",
+    "notes": "Prominent Indian newspaper known for its strong investigative journalism. Generally considered a centrist paper that often takes a critical but balanced view of the government."
+  },
+  {
+    "name": "Hindustan Times",
+    "domain": "hindustantimes.com",
+    "leaning": "Center",
+    "notes": "Major Indian daily newspaper. Generally maintains a centrist position and is considered a mainstream, establishment publication."
+  },
+  {
+    "name": "India Today",
+    "domain": "indiatoday.in",
+    "leaning": "Center-Right",
+    "notes": "Indian news magazine and TV channel. Often perceived as leaning towards the current ruling establishment (BJP), particularly in its television format."
+  },
+  {
+    "name": "The Wire",
+    "domain": "thewire.in",
+    "leaning": "Left",
+    "notes": "An independent Indian digital news publication. Known for its strong critical stance towards the government, investigative reports, and left-leaning/liberal commentary."
+  },
+  {
+    "name": "Republic TV",
+    "domain": "republicworld.com",
+    "leaning": "Right",
+    "notes": "Indian news channel known for its loud, pro-government, and strong nationalist (Hindutva) stance. Highly critical of opposition parties and liberal viewpoints."
+  },
+  {
+    "name": "Zee News",
+    "domain": "zeenews.india.com",
+    "leaning": "Right",
+    "notes": "Indian news channel often described as part of the 'Godi Media' for its strong pro-government stance. Its chairman is a BJP-backed Member of Parliament."
+  },
+  {
+    "name": "The Quint",
+    "domain": "thequint.com",
+    "leaning": "Center-Left",
+    "notes": "Indian digital news platform that focuses on explanatory and youth-oriented journalism. Generally holds a liberal and progressive perspective."
+  },
+  {
+    "name": "Scroll.in",
+    "domain": "scroll.in",
+    "leaning": "Left",
+    "notes": "Indian digital news publication with in-depth reporting and analysis. It is known for being consistently critical of the government from a liberal-left perspective."
+  },
+  {
+    "name": "OpIndia",
+    "domain": "opindia.com",
+    "leaning": "Far-Right",
+    "notes": "An Indian right-wing news and opinion website. Known for its strong pro-BJP and Hindutva stance, and has been frequently called out for publishing misinformation and disinformation."
+  },
+  {
+    "name": "Swarajya",
+    "domain": "swarajyamag.com",
+    "leaning": "Right",
+    "notes": "Indian magazine and news portal that advocates for market-liberal and right-wing perspectives. It aligns with the cultural and economic policies of the ruling BJP."
+  },
+  {
+    "name": "The Print",
+    "domain": "theprint.in",
+    "leaning": "Center",
+    "notes": "Indian digital news platform founded by veteran journalists. It aims to be a non-hyphenated liberal platform and is generally seen as centrist, with a slight tilt towards the establishment."
+  },
+  {
+    "name": "Newslaundry",
+    "domain": "newslaundry.com",
+    "leaning": "Center-Left",
+    "notes": "An independent, subscription-based Indian media watchdog. Known for its critique of the news industry itself and holds a broadly liberal, anti-establishment viewpoint."
+  },
+  {
+    "name": "The Telegraph (India)",
+    "domain": "telegraphindia.com",
+    "leaning": "Center-Left",
+    "notes": "Kolkata-based newspaper known for its strong secular, liberal stance and pointedly critical headlines against the central government."
+  },
+  {
+    "name": "Deccan Chronicle",
+    "domain": "deccanchronicle.com",
+    "leaning": "Center",
+    "notes": "An English-language daily with a strong readership in Southern India. Generally provides centrist coverage of national and regional issues."
+  },
+  {
+    "name": "The News Minute",
+    "domain": "thenewsminute.com",
+    "leaning": "Center-Left",
+    "notes": "Independent digital platform focusing on the five southern states. Known for its progressive, gender-sensitive, and independent reporting."
+  },
+  {
+    "name": "The Caravan",
+    "domain": "caravanmagazine.in",
+    "leaning": "Left",
+    "notes": "A magazine known for long-form, investigative narrative journalism. It is often highly critical of the establishment from a left/liberal perspective."
+  },
+  {
+    "name": "Alt News",
+    "domain": "altnews.in",
+    "leaning": "Fact-Checker",
+    "notes": "A non-profit fact-checking website. Its primary function is verification, not opinion, though it's often perceived as left-leaning due to its focus on debunking right-wing misinformation."
+  },
+  {
+    "name": "Navbharat Times",
+    "domain": "navbharattimes.indiatimes.com",
+    "leaning": "Center-Right",
+    "notes": "A major Hindi newspaper from the Times Group. Its editorial stance is pro-business and establishment-friendly, similar to its English counterpart, The Times of India."
+  },
+  {
+    "name": "Punjab Kesari",
+    "domain": "pkesari.in",
+    "leaning": "Center-Right",
+    "notes": "A major Hindi daily with large circulation in North India. Known for its strong nationalist stance."
+  },
+  {
+    "name": "Mathrubhumi",
+    "domain": "mathrubhumi.com",
+    "leaning": "Center-Left",
+    "notes": "A major Malayalam-language daily in Kerala, traditionally associated with a secular and social reformist outlook."
+  },
+  {
+    "name": "Sakshi",
+    "domain": "sakshi.com",
+    "leaning": "Partisan-Left (Pro-YSRCP)",
+    "notes": "A major Telugu newspaper founded by a politician. It strongly supports his party, the YSR Congress Party, making its coverage highly partisan."
+  },
+  {
+    "name": "Sakal",
+    "domain": "esakal.com",
+    "leaning": "Center",
+    "notes": "A popular Marathi-language daily newspaper. Its ownership has ties to a prominent political family, but its coverage is generally mainstream and centrist."
+  },
+  {
+    "name": "Gujarat Samachar",
+    "domain": "gujaratsamachar.com",
+    "leaning": "Center",
+    "notes": "One of the leading newspapers in the Gujarati language. It maintains a broad, centrist appeal within its regional readership."
+  },
+  {
+    "name": "Dinamalar",
+    "domain": "dinamalar.com",
+    "leaning": "Right",
+    "notes": "A prominent Tamil daily newspaper known for its right-wing, pro-Hindutva, and pro-BJP editorial stance."
+  },
+  {
+    "name": "The Economist",
+    "domain": "economist.com",
+    "leaning": "Center",
+    "notes": "UK-based publication with a focus on global affairs and economics. Advocates for classical liberalism: free markets, free trade, and social liberalism. Can be considered center-right on economics and center-left on social issues."
+  },
+  {
+    "name": "Bloomberg",
+    "domain": "bloomberg.com",
+    "leaning": "Center",
+    "notes": "Financial news company. Its reporting is generally data-driven and centrist, with a slight pro-business, technocratic leaning. Avoids partisan politics in its news coverage."
+  },
+  {
+    "name": "USA Today",
+    "domain": "usatoday.com",
+    "leaning": "Center-Left",
+    "notes": "A mass-market US newspaper. Its news content is often perceived as centrist, but its editorial stance and framing often align with liberal viewpoints."
+  },
+  {
+    "name": "The Telegraph",
+    "domain": "telegraph.co.uk",
+    "leaning": "Right",
+    "notes": "A major UK daily newspaper. Traditionally aligned with the Conservative Party (Tories), it is known for its right-leaning, Euroskeptic commentary."
+  },
+  {
+    "name": "The Independent",
+    "domain": "independent.co.uk",
+    "leaning": "Center-Left",
+    "notes": "UK-based online newspaper. It generally holds liberal and pro-Europe stances on most issues."
+  },
+  {
+    "name": "Daily Mail",
+    "domain": "dailymail.co.uk",
+    "leaning": "Right",
+    "notes": "A highly popular UK tabloid known for its conservative, populist, and often sensationalist content."
+  },
+  {
+    "name": "Le Monde",
+    "domain": "lemonde.fr",
+    "leaning": "Center-Left",
+    "notes": "A leading French daily newspaper. It is generally considered to have a center-left, progressive, and pro-EU editorial stance."
+  },
+  {
+    "name": "Le Figaro",
+    "domain": "lefigaro.fr",
+    "leaning": "Center-Right",
+    "notes": "A major French newspaper, and the main competitor to Le Monde. It is traditionally aligned with the French center-right."
+  },
+  {
+    "name": "Der Spiegel",
+    "domain": "spiegel.de",
+    "leaning": "Center-Left",
+    "notes": "A highly influential German weekly news magazine. Known for its in-depth investigative journalism and a center-left, liberal perspective."
+  },
+  {
+    "name": "Bild",
+    "domain": "bild.de",
+    "leaning": "Right",
+    "notes": "Germany's best-selling tabloid newspaper. Known for its conservative, populist tone and sensationalism."
+  },
+  {
+    "name": "The Globe and Mail",
+    "domain": "theglobeandmail.com",
+    "leaning": "Center",
+    "notes": "A major Canadian newspaper. Generally considered centrist or slightly center-right, often described as a voice of the Canadian establishment."
+  },
+  {
+    "name": "Toronto Star",
+    "domain": "thestar.com",
+    "leaning": "Center-Left",
+    "notes": "A major Canadian newspaper with a long history of advocating for social justice and liberal policies."
+  },
+  {
+    "name": "Asahi Shimbun",
+    "domain": "asahi.com",
+    "leaning": "Center-Left",
+    "notes": "A leading Japanese newspaper. Known for its liberal and progressive stance, often critical of conservative governments in Japan."
+  },
+  {
+    "name": "Yomiuri Shimbun",
+    "domain": "yomiuri.co.jp",
+    "leaning": "Center-Right",
+    "notes": "Japanese newspaper with the largest circulation in the world. It has a conservative editorial stance and is generally supportive of the ruling LDP party."
+  },
+  {
+    "name": "China Daily",
+    "domain": "chinadaily.com.cn",
+    "leaning": "State-Owned (Authoritarian)",
+    "notes": "An English-language daily newspaper owned by the Publicity Department of the Chinese Communist Party. Functions as a propaganda outlet for the Chinese government."
+  },
+  {
+    "name": "People's Daily",
+    "domain": "people.cn",
+    "leaning": "State-Owned (Authoritarian)",
+    "notes": "The official newspaper of the Central Committee of the Chinese Communist Party. It is the primary mouthpiece of the party."
+  },
+  {
+    "name": "Global Times",
+    "domain": "globaltimes.cn",
+    "leaning": "State-Owned (Authoritarian)",
+    "notes": "A daily tabloid newspaper under the People's Daily. Known for its aggressive, nationalist, and often confrontational editorials targeting Western countries."
+  },
+  {
+    "name": "South China Morning Post",
+    "domain": "scmp.com",
+    "leaning": "Center",
+    "notes": "A Hong Kong-based English-language newspaper owned by Alibaba. Aims for comprehensive coverage of China but operates under the constraints of the National Security Law."
+  },
+  {
+    "name": "The Sydney Morning Herald",
+    "domain": "smh.com.au",
+    "leaning": "Center-Left",
+    "notes": "A major Australian newspaper based in Sydney. Traditionally a centrist paper, it is now generally considered to have a center-left editorial stance."
+  },
+  {
+    "name": "The Australian",
+    "domain": "theaustralian.com.au",
+    "leaning": "Center-Right",
+    "notes": "A national Australian newspaper owned by News Corp. It is known for its conservative commentary and business-friendly perspective."
+  },
+  {
+    "name": "RT (Russia Today)",
+    "domain": "rt.com",
+    "leaning": "State-Owned (Authoritarian)",
+    "notes": "A Russian state-controlled international television network. It functions as a propaganda arm of the Russian government, known for spreading disinformation."
+  },
+  {
+    "name": "TASS",
+    "domain": "tass.com",
+    "leaning": "State-Owned (Authoritarian)",
+    "notes": "A major news agency in Russia, owned and operated by the Russian government. It reflects the official state position on domestic and international affairs."
+  },
+  {
+    "name": "Haaretz",
+    "domain": "haaretz.com",
+    "leaning": "Left",
+    "notes": "An Israeli newspaper known for its left-wing and liberal stance. It is often highly critical of the Israeli government's policies, particularly regarding the Palestinian territories."
+  },
+  {
+    "name": "The Jerusalem Post",
+    "domain": "jpost.com",
+    "leaning": "Center-Right",
+    "notes": "An Israeli English-language newspaper. It generally holds a centrist to right-leaning editorial stance, representing a more mainstream view than Haaretz."
+  },
+  {
+    "name": "Dawn",
+    "domain": "dawn.com",
+    "leaning": "Center-Left",
+    "notes": "Pakistan's oldest and most widely read English-language newspaper. Known for its socially liberal and editorially independent stance, often critical of the military establishment."
+  },
+  {
+    "name": "The Times of Israel",
+    "domain": "timesofisrael.com",
+    "leaning": "Center",
+    "notes": "An Israeli online newspaper that aims to provide a balanced view of Israel and the region. It is generally considered centrist and less ideologically driven than its peers."
+  },
+  {
+    "name": "Folha de S.Paulo",
+    "domain": "folha.uol.com.br",
+    "leaning": "Center",
+    "notes": "One of Brazil's most influential newspapers. Known for its pluralistic approach, but often characterized as having a slight center-left or liberal inclination."
+  },
+  {
+    "name": "El País",
+    "domain": "elpais.com",
+    "leaning": "Center-Left",
+    "notes": "A leading Spanish daily newspaper. It has a strong pro-European stance and is generally aligned with a center-left, progressive ideology."
+  },
+  {
+    "name": "The Straits Times",
+    "domain": "straitstimes.com",
+    "leaning": "State-Controlled",
+    "notes": "An English-language daily broadsheet newspaper based in Singapore. It has a pro-government stance and operates under strict media regulations."
+  },
+  {
+    "name": "Politico",
+    "domain": "politico.com",
+    "leaning": "Center",
+    "notes": "American political journalism company. Known for its in-depth, non-partisan reporting on politics and policy. Focuses on the 'who' and 'why' of politics rather than taking strong ideological stances."
+  },
+  {
+    "name": "The Hill",
+    "domain": "thehill.com",
+    "leaning": "Center",
+    "notes": "American news website and newspaper, primarily focused on the U.S. Congress. Known for its balanced reporting and features opinion columns from both sides of the aisle."
+  },
+  {
+    "name": "HuffPost",
+    "domain": "huffpost.com",
+    "leaning": "Left",
+    "notes": "Originally The Huffington Post, it started as a liberal commentary aggregator and has maintained a strong progressive and left-wing editorial voice."
+  },
+  {
+    "name": "Axios",
+    "domain": "axios.com",
+    "leaning": "Center",
+    "notes": "US news website known for its 'smart brevity' format. Its reporting is generally centrist and fact-based, aiming for efficient, non-partisan delivery of news."
+  },
+  {
+    "name": "WION (World is One News)",
+    "domain": "wionews.com",
+    "leaning": "Center-Right",
+    "notes": "An Indian international news channel. Aims to project an Indian perspective on global events. Its stance is generally nationalist and pro-government."
+  },
+  {
+    "name": "Dainik Bhaskar",
+    "domain": "bhaskar.com",
+    "leaning": "Center",
+    "notes": "One of the largest Hindi-language daily newspapers in India. Generally maintains a centrist, mass-market appeal. Known for strong ground reporting."
+  },
+  {
+    "name": "Dainik Jagran",
+    "domain": "jagran.com",
+    "leaning": "Right",
+    "notes": "A major Hindi-language daily newspaper with a massive readership. It is widely considered to have a right-wing, pro-BJP editorial stance."
+  },
+  {
+    "name": "Amar Ujala",
+    "domain": "amarujala.com",
+    "leaning": "Center-Right",
+    "notes": "Another leading Hindi-language daily. It generally takes a centrist to slightly right-leaning stance, often aligning with mainstream nationalist sentiment."
+  },
+  {
+    "name": "Malayala Manorama",
+    "domain": "manoramaonline.com",
+    "leaning": "Center",
+    "notes": "A leading Malayalam-language newspaper in Kerala, India. It is generally centrist and has a broad, mainstream appeal, avoiding strong ideological alignment."
+  },
+  {
+    "name": "Ananda Bazar Patrika (ABP)",
+    "domain": "anandabazar.com",
+    "leaning": "Center-Left",
+    "notes": "A prominent Bengali-language newspaper. Traditionally holds a secular and liberal editorial line, often critical of both state and central governments."
+  },
+  {
+    "name": "Eenadu",
+    "domain": "eenadu.net",
+    "leaning": "Center-Right",
+    "notes": "The largest Telugu-language newspaper. Historically, its founder has been influential in regional politics, and the paper often reflects a pro-business, center-right viewpoint."
+  },
+  {
+    "name": "Daily Thanthi",
+    "domain": "dailythanthi.com",
+    "leaning": "Center",
+    "notes": "A leading Tamil-language daily newspaper. It focuses on mass appeal and local issues, generally maintaining a politically neutral or centrist stance."
+  },
+  {
+    "name": "Lokmat",
+    "domain": "lokmat.com",
+    "leaning": "Center",
+    "notes": "The largest Marathi-language newspaper in India. Its owners have ties to the Congress party, but the paper itself maintains a broad, centrist editorial stance."
+  },
+  {
+    "name": "The Economic Times",
+    "domain": "economictimes.indiatimes.com",
+    "leaning": "Center-Right",
+    "notes": "India's leading business newspaper. Like most financial papers, its focus is pro-business, pro-market, and fiscally conservative."
+  },
+  {
+    "name": "Business Standard",
+    "domain": "business-standard.com",
+    "leaning": "Center",
+    "notes": "An Indian daily business newspaper. Known for its high-quality, credible reporting and commentary, it is considered more editorially centrist and sober than its competitors."
+  },
+  {
+    "name": "Livemint",
+    "domain": "livemint.com",
+    "leaning": "Center-Right",
+    "notes": "An Indian business newspaper from the same house as Hindustan Times. It has a modern, digital-first approach and a pro-market editorial stance."
+  },
+  {
+    "name": "Firstpost",
+    "domain": "firstpost.com",
+    "leaning": "Right",
+    "notes": "An Indian digital news portal, part of the Network18 group. It has a distinctly right-wing, pro-government orientation."
+  },
+  {
+    "name": "Deccan Herald",
+    "domain": "deccanherald.com",
+    "leaning": "Center",
+    "notes": "An English-language daily newspaper from Karnataka, India. Known for its balanced coverage and generally centrist, moderate editorial positions."
+  },
+  {
+    "name": "The Tribune",
+    "domain": "tribuneindia.com",
+    "leaning": "Center",
+    "notes": "A major Indian English-language daily newspaper based in Chandigarh. It is widely respected for its sober tone and centrist, independent editorial stance."
+  },
+  {
+    "name": "The New Indian Express",
+    "domain": "newindianexpress.com",
+    "leaning": "Right",
+    "notes": "An Indian English-language newspaper with a distinct and vocal right-wing, nationalist editorial stance. Not to be confused with The Indian Express."
+  },
+  {
+    "name": "Breitbart News",
+    "domain": "breitbart.com",
+    "leaning": "Far-Right",
+    "notes": "An American news and opinion website known for its populist, nationalist, and highly partisan right-wing content. Often accused of publishing conspiracy theories."
+  },
+  {
+    "name": "The Daily Wire",
+    "domain": "dailywire.com",
+    "leaning": "Right",
+    "notes": "A conservative American news and opinion website founded by Ben Shapiro. Known for its strong conservative commentary and opposition to progressive politics."
+  },
+  {
+    "name": "MSNBC",
+    "domain": "msnbc.com",
+    "leaning": "Left",
+    "notes": "An American cable news channel and website. Known for its progressive and left-wing opinion hosts and serves as a counterpart to Fox News's conservative programming."
+  },
+  {
+    "name": "CBS News",
+    "domain": "cbsnews.com",
+    "leaning": "Center-Left",
+    "notes": "The news division of the American television network CBS. Generally considered to be slightly left-of-center in its story selection and framing."
+  },
+  {
+    "name": "ABC News",
+    "domain": "abcnews.go.com",
+    "leaning": "Center-Left",
+    "notes": "The news division of the American television network ABC. Similar to CBS, it's considered a mainstream media outlet that leans slightly to the left."
+  },
+  {
+    "name": "The Sun",
+    "domain": "thesun.co.uk",
+    "leaning": "Right",
+    "notes": "A major UK tabloid newspaper. Known for its populist, conservative, and strongly pro-Brexit stance. Owned by News Corp."
+  },
+  {
+    "name": "Financial Times",
+    "domain": "ft.com",
+    "leaning": "Center",
+    "notes": "UK-based international business newspaper. It supports free markets but is socially liberal. Its editorial stance is generally centrist and pro-globalization."
+  },
+  {
+    "name": "Nikkei Asia",
+    "domain": "asia.nikkei.com",
+    "leaning": "Center-Right",
+    "notes": "The flagship English-language publication of Nikkei, Inc., Japan's largest media company. Focuses on Asian business and has a pro-market, center-right perspective."
+  },
+  {
+    "name": "Kyodo News",
+    "domain": "english.kyodonews.net",
+    "leaning": "Center",
+    "notes": "A non-profit cooperative news agency based in Tokyo, Japan. It is the Japanese equivalent of the Associated Press, aiming for neutral, objective reporting."
+  },
+  {
+    "name": "Corriere della Sera",
+    "domain": "corriere.it",
+    "leaning": "Center",
+    "notes": "A leading Italian daily newspaper. It is generally considered a moderate, centrist, and establishment newspaper."
+  },
+  {
+    "name": "Deutsche Welle (DW)",
+    "domain": "dw.com",
+    "leaning": "Center",
+    "notes": "Germany's public international broadcaster. Similar to the BBC World Service, it aims for objective, balanced reporting with a focus on German and European perspectives."
+  },
+  {
+    "name": "The Moscow Times",
+    "domain": "themoscowtimes.com",
+    "leaning": "Center-Left",
+    "notes": "An independent English-language online newspaper based in Amsterdam. It is known for its critical coverage of the Russian government."
+  },
+  {
+    "name": "The Intercept",
+    "domain": "theintercept.com",
+    "leaning": "Far-Left",
+    "notes": "An American news organization known for its adversarial, investigative journalism. It has a strong left-wing perspective and is often critical of US foreign policy and corporate power."
+  },
+  {
+    "name": "Vice News",
+    "domain": "vice.com/en/section/news",
+    "leaning": "Left",
+    "notes": "The news division of Vice Media. Known for its immersive, documentary-style reporting on under-covered topics, with a clear youth-oriented, progressive, and left-wing perspective."
+  },
+  {
+    "name": "The Daily Beast",
+    "domain": "thedailybeast.com",
+    "leaning": "Left",
+    "notes": "An American news and opinion website with a focus on politics and pop culture. It has a tabloid-style energy and a strong liberal to left-wing bias."
+  },
+  {
+    "name": "Sputnik News",
+    "domain": "sputnikglobe.com",
+    "leaning": "State-Owned (Authoritarian)",
+    "notes": "A Russian state-owned news agency, radio broadcaster, and website. It is widely regarded as a propaganda and disinformation outlet for the Russian government."
+  },
+  {
+    "name": "Xinhua News Agency",
+    "domain": "english.news.cn",
+    "leaning": "State-Owned (Authoritarian)",
+    "notes": "The official state-run press agency of the People's Republic of China. It is the main channel for the distribution of news and propaganda by the Chinese government."
+  },
+  {
+    "name": "The Korea Herald",
+    "domain": "koreaherald.com",
+    "leaning": "Center",
+    "notes": "South Korea's largest English-language daily newspaper. It provides mainstream, generally centrist coverage of events in the Korean peninsula."
+  },
+  {
+    "name": "The Jakarta Post",
+    "domain": "thejakartapost.com",
+    "leaning": "Center-Left",
+    "notes": "An English-language daily newspaper in Indonesia. It has a reputation for being a liberal, independent voice in the region."
+  },
+  {
+    "name": "The Irish Times",
+    "domain": "irishtimes.com",
+    "leaning": "Center-Left",
+    "notes": "An Irish daily broadsheet newspaper. Generally considered a liberal and progressive newspaper of record in Ireland."
+  }
+]
