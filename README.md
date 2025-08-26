@@ -86,8 +86,12 @@ Visit:
 http://localhost:8080
 ```
 
-Both the frontend and backend are served from the same server.  
+### Notes
+- You do not need to run the frontend/ folder separately. It exists for viewing/editing the React source. The production build is bundled and served by Spring Boot from src/main/resources/static/.
 
+- Ensure your Hugging Face API key is set in application.properties before starting the app.
+
+- Both the frontend and backend are served from the same server.  
 ---
 
 ## 📂 Project Structure
@@ -95,6 +99,8 @@ Both the frontend and backend are served from the same server.
 ```
 ReadRight/
 │
+├── Frontend              # Frontend folder for viewing 
+|
 ├── src/
 │   ├── main/
 │   │   ├── java/         # Spring Boot backend
