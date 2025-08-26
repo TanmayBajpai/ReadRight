@@ -1,0 +1,5 @@
+html {
+    height: auto;
+    background: #ffffff;
+    background: linear-gradient(0deg, rgba(255, 255, 255, 1) 0%, rgba(224, 224, 224, 0.5) 100%);
+}
