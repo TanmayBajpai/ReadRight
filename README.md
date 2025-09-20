@@ -113,3 +113,14 @@ ReadRight/
 ```
 
 ---
+
+## 📷 Screenshots
+
+### Home Page
+<img width="1440" height="957" alt="Screenshot_20250920_210809" src="https://github.com/user-attachments/assets/bd1ac0fd-eee6-4852-b306-4947572ec4df" />
+
+
+### Results Page
+<img width="1345" height="926" alt="Screenshot_20250920_210516" src="https://github.com/user-attachments/assets/4adeceb2-9645-4a80-a6ca-261502fcf7e6" />
+<img width="1899" height="779" alt="Screenshot_20250920_210545" src="https://github.com/user-attachments/assets/2617b256-037e-4570-be1e-2ebc7cc01fc5" />
+
