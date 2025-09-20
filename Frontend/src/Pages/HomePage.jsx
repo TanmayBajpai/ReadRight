@@ -66,7 +66,7 @@ function HomePage() {
     setShowError(false)
 
     try {
-      const apiResponse = await axios.get(`http://localhost:8080/api/get-bias`, {
+      const apiResponse = await axios.get(`/api/get-bias`, {
         params: { link: url.trim() }
       })
 
